@@ -10,7 +10,7 @@ import './register.css';
 
 export const Register = () => {
     const onError = () => {
-        alert("Network Error,please contact admin");
+        alert("Network Error,please contact admin.");
         console.log('error');
     }
 
